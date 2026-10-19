@@ -9,5 +9,5 @@ Programmieren 1 mit Java
 …
 
 ## Das erwarte ich von der Veranstaltung
-Das ich lerne, wie man Software nicht nur programmiert, sondern auch systematisch plant, entwickelt, testet und im Team bearbeitet.wie man Software nicht nur programmiert, sondern auch systematisch plant, entwickelt, testet und im Team bearbeitet.
+Das ich lerne, wie man Software nicht nur programmiert, sondern auch systematisch plant, entwickelt, testet und im Team bearbeitet.wie man Software nicht nur programmiert, sondern auch systematisch plant, entwickelt und testet.
 …
